@@ -29,7 +29,7 @@
 ## ⚔️ The Armoury
 
 <p align="center">
-  <img src="assets/armoury.svg" width="100%" alt="Tech stack icons. Mobile: Flutter, Dart, Kotlin, Jetpack Compose, Swift / SwiftUI, Android, iOS. Backend: Go, Gin, MySQL, TiDB, JWT, Docker, Render. Data and cloud: Firebase, Odoo. Payments: Google Pay, Apple Pay and 8 more gateways. Tools: Git, Postman.">
+  <img src="assets/armoury.svg" width="100%" alt="Tech stack icons. Mobile: Flutter, Dart, Kotlin, Jetpack Compose, Swift / SwiftUI, Android, iOS. Backend: Go, MySQL. Payment gateways integration: Google Pay, Apple Pay and 8 more gateways. Tools: Git, Android Studio, Xcode.">
 </p>
 
 ## 🏰 Realms Served

@@ -23,13 +23,13 @@
 ## 🏆 Hall of Deeds
 
 <p align="center">
-  <img src="assets/deeds.svg" width="100%" alt="3+ years shipping apps · 6 apps in production · 50K+ ShweStream downloads · 10 payment gateways · 4-person team I lead">
+  <img src="assets/deeds.svg" width="100%" alt="Achievements: 3+ years shipping apps · 6 apps in production · 10 payment gateways integrated">
 </p>
 
 ## ⚔️ The Armoury
 
 <p align="center">
-  <img src="assets/armoury.svg" width="100%" alt="Mobile: Flutter, Dart, Kotlin, Jetpack Compose, XML (MVVM), Swift, SwiftUI. Architecture: Clean Architecture, BLoC / Cubit, Provider, MVVM, Hilt, get_it + Injectable, GoRouter, Freezed. Data and APIs: REST with Retrofit, Firebase, Firestore, Cloud Messaging, Hive, Odoo. Backend: Go, Gin, GORM, MySQL / TiDB, JWT, Docker, Render. Payments: KBZPay, WavePay, CB Pay, 2C2P, Coda, MPT, Ooredoo, ATOM, Google Pay, Apple Pay. Tools: Git, Postman.">
+  <img src="assets/armoury.svg" width="100%" alt="Tech stack icons. Mobile: Flutter, Dart, Kotlin, Jetpack Compose, Swift / SwiftUI, Android, iOS. Backend: Go, Gin, MySQL, TiDB, JWT, Docker, Render. Data and cloud: Firebase, Odoo. Payments: Google Pay, Apple Pay and 8 more gateways. Tools: Git, Postman.">
 </p>
 
 ## 🏰 Realms Served

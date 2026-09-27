@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 72" width="1200" height="72" role="img" aria-labelledby="t d">
+<title id="t">Divider</title>
+<desc id="d">An ornamental gold line with crossed swords behind a small shield.</desc>
+<style>@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs><linearGradient id="fade" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="1160" y2="0">
+<stop offset="0" stop-color="#c99a3b" stop-opacity="0"/><stop offset=".3" stop-color="#c99a3b"/>
+<stop offset=".7" stop-color="#c99a3b"/><stop offset="1" stop-color="#c99a3b" stop-opacity="0"/></linearGradient></defs>
+<path d="M40 36H530M670 36H1160" stroke="url(#fade)" stroke-width="1.6"/><path d="M350 32L354 36L350 40L346 36Z" fill="#c99a3b"/><path d="M850 32L854 36L850 40L846 36Z" fill="#c99a3b"/><path d="M180 33.4L182.6 36L180 38.6L177.4 36Z" fill="#c99a3b"/><path d="M1020 33.4L1022.6 36L1020 38.6L1017.4 36Z" fill="#c99a3b"/><g transform="translate(600 36) rotate(-40)"><path d="M-2.8 18L2.8 18L2.4 -24L0 -31L-2.4 -24Z" fill="#dcd5c4" stroke="#6e6a5e" stroke-width=".8"/><rect x="-10" y="17" width="20" height="4" rx="1.6" fill="#c99a3b"/><rect x="-1.9" y="21" width="3.8" height="9" fill="#5a3d1e"/><circle cx="0" cy="32" r="3.2" fill="#c99a3b"/></g><g transform="translate(600 36) rotate(40)"><path d="M-2.8 18L2.8 18L2.4 -24L0 -31L-2.4 -24Z" fill="#dcd5c4" stroke="#6e6a5e" stroke-width=".8"/><rect x="-10" y="17" width="20" height="4" rx="1.6" fill="#c99a3b"/><rect x="-1.9" y="21" width="3.8" height="9" fill="#5a3d1e"/><circle cx="0" cy="32" r="3.2" fill="#c99a3b"/></g><path d="M587 21H613V33C613 43 607 49 600 53C593 49 587 43 587 33Z" fill="#9b1c1c" stroke="#e8c35a" stroke-width="2"/><path d="M600 30.5L604.5 35L600 39.5L595.5 35Z" fill="#e8c35a"/>
+</svg>
